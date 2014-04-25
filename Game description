@@ -1,0 +1,16 @@
+projectVancouver game:
+
+High level view:
+- Strategy game with boats, try make it a bit like risk/diplomacy/settlers of catan
+set around map of uk?
+Could we have it playable online, I.e through a web browser
+Have a number of ports/towns set around the uk and players get one to start
+I think the map should be "real time" and players take in turns/simultaneously make orders
+Think that a player makes orders (number and type of orders can depend on other things like money, number of peopl/towns etc...), then this is played out. So I could send a ship to another port with gold and we could watch the ship move along the screen in "real time" then it may not reach port before I get another go at making orders
+Would be cool to integrate external data sources into the game to affect things eg. Shipping forecast/weather can affect the ships and routes taken. Stock exchange fluctuations on things like gold, wood, coal etc... Can affect prices (then can have in game modifiers eg if I sink a ship full of gold then the price goes up). Would be cool to use some tfl data aswell, could have a pretend rail/canal network across the uk that is like the underground, then any delays on the lines affect delivery or goods etc...
+Not sure how we should do battles, maybe if you get into a fight it's a more "classic" player turns strategy game? But defs keen to get the trading and stuff into the game aswell
+
+How to start:
+I think we should start by essentially making some "requirements" from the above for each area of the game, once we are happy with the above direction of the game
+Try to make it as modular as possible so that we can start off by creating a simple game where a player can move ships around a map, then go from there
+I'm up for doing most of the back end stuff in say python? Then if we need to use more web stuff then think that you (will) can advise on that and I'm game to learn some of that stuff aswell so it doesn't have to be all you
